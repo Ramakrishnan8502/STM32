@@ -1,0 +1,4 @@
+../Core/Src/sdcard.c:19:6:log_to_sdcard	128	static
+../Core/Src/sdcard.c:54:6:create_new_file	56	static
+../Core/Src/sdcard.c:72:9:check_sdcard_status	8	static
+../Core/Src/sdcard.c:91:6:ReadsdCardStorage	4200	static

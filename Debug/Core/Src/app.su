@@ -1,0 +1,5 @@
+../Core/Src/app.c:25:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/app.c:56:9:processReceivedData	8	static
+../Core/Src/app.c:63:6:MainInit	8	static
+../Core/Src/app.c:82:6:MainApp	8	static
+../Core/Src/app.c:97:6:HandleButtonPress	16	static

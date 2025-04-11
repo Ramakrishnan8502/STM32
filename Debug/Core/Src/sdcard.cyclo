@@ -1,0 +1,4 @@
+../Core/Src/sdcard.c:19:6:log_to_sdcard	2
+../Core/Src/sdcard.c:54:6:create_new_file	1
+../Core/Src/sdcard.c:72:9:check_sdcard_status	2
+../Core/Src/sdcard.c:91:6:ReadsdCardStorage	9

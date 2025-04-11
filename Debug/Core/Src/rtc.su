@@ -1,0 +1,7 @@
+../Core/Src/rtc.c:15:6:RTC_Backup_Write	8	static
+../Core/Src/rtc.c:21:7:RTC_Backup_Read	8	static
+../Core/Src/rtc.c:26:7:getDateTime	40	static
+../Core/Src/rtc.c:38:7:RTC_setTime	32	static
+../Core/Src/rtc.c:49:8:RTC_setDate	16	static
+../Core/Src/rtc.c:65:8:DisplayDateTime	8	static
+../Core/Src/rtc.c:73:8:MX_RTC_Init	8	static
